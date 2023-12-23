@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @nentinur
-- 👀 I’m interested in Data Analytics and Web Programming
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Programming, Mobile Programming and Cloud Computing 
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me:
-- you can visit me on instagram [: @nenti_nur30](https://instagram.com/nenti_nur30/)
+- you can visit me on instagram: [ @nenti_nur30](https://instagram.com/nenti_nur30/)
 
 <!---
 nentinur/nentinur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
