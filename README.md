@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nentinur
-- 👀 I’m interested in Web Programming, Mobile Programming and Cloud Computing 
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Programming and Data Science 
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me:
 - you can visit me on instagram: [ @nenti_nur30](https://instagram.com/nenti_nur30/)
 
