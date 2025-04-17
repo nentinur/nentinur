@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nentinur
+- 👋 Hi, I’m Nenti Nurnaningsih
 - 👀 I’m interested in Web Programming and Data Science 
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach me:
