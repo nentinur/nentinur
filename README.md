@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Programming and Data Science 
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach me:
-- you can visit me on instagram: [ @nenti_nur30](https://instagram.com/nenti_nur30/)
+- know more about me at linkedin: [Nenti Nurnaningsih](https:/in/nenti-nurnaningsih/)
 
 <!---
 nentinur/nentinur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
